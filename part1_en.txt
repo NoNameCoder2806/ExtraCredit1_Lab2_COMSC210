@@ -1,0 +1,7 @@
+Hello world! I am a programmer!
+
+My favorite programming language is C++!
+I am currently studying at Diablo Valley College.
+It is a nice college and I really like it.
+
+Hopefully, I will pass COMSC-165!
